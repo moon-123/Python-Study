@@ -1,3 +1,3 @@
 # Python-Study
-* Greedy
+* Greedy(...ing)
 
